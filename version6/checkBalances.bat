@@ -1,0 +1,1 @@
+version6.exe getBalance ÎÄ½Ü &version6.exe getBalance Ð¡Ñô &version6.exe getBalance Á¼ÐÖ &version6.exe getBalance ½¯²¨ &

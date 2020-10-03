@@ -1,0 +1,1 @@
+del blockChain.db blockChain.db.lock version8.exe &go build ./ &version8.exe

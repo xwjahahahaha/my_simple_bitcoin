@@ -1,0 +1,1 @@
+version7.exe getBalance 张三 &version7.exe getBalance 李四 &version7.exe getBalance 王五 &version7.exe getBalance 赵六 &

@@ -1,0 +1,1 @@
+del blockChain.db blockChain.db.lock version7.exe &go build ./ &version7.exe
